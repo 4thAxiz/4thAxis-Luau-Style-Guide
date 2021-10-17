@@ -1,10 +1,8 @@
 # 4thAxis-Luau-Style-Guide
 For anyone who is trying to improve their readability and consistency or just want enlightenment.
+Original guide: https://hackmd.io/@4thAxis/4thAxis-Luau-Style-Guide
+---
 
----
-title: '4thAxis Style Guide'
-disqus: hackmd
----
 
 4thAxis' Luau Style Guide
 ===
